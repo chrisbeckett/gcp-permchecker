@@ -6,10 +6,10 @@ This tool checks the GCP IAM permissions of a service account.
 
 You need :-
 
-- Python 3.8 or higher
-- Git
-- GCP Service Account JSON credentials file
-- An environment variable called **GOOGLE_APPLICATION_CREDENTIALS** pointing to your JSON file *(example : GOOGLE_APPLICATION_CREDENTIALS="mycreds.json")*
+- **Python 3.8 or higher**
+- **Git**
+- **GCP Service Account JSON credentials file**
+- **An environment variable called **GOOGLE_APPLICATION_CREDENTIALS** pointing to your JSON file *(example : GOOGLE_APPLICATION_CREDENTIALS="mycreds.json")*
 
 # Installation steps
 

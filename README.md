@@ -8,7 +8,7 @@ You need :-
 
 - **Python 3.8 or higher**
 - **Git**
-- **GCP Service Account JSON credentials file**
+- **GCP Service Account with Viewer permissions at Organisation level. Create and download the JSON credentials key file**
 - **An environment variable called** ***GOOGLE_APPLICATION_CREDENTIALS*** **pointing to your JSON file** *(example : GOOGLE_APPLICATION_CREDENTIALS="mycreds.json")*
 
 # Installation steps

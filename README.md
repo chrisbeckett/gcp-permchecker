@@ -19,3 +19,7 @@ You need :-
 - **bin/activate.bat (Windows) or source bin/activate (Mac/Linux)**
 - **pip install -r requirements.txt**
 - **python3 gcp-permchecker.py**
+
+# Logging to a file
+
+- **Run "python3 gcp-permchecker.py > log.txt"**
